@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:27:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crisis Management]]></title>
+            <description><![CDATA[<article><h1>Crisis Management</h1><p>Expertise is not enough for time-critical business contingencies: it's the ability to draw it all together at a moment's notice that counts in high operational and reputational risk situations</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/crisis-management/index.html</link>
+            <guid isPermaLink="false">fb72d17c-3d2d-40c9-9936-0aa185a2c57c</guid>
+            <pubDate>Mon, 04 Apr 2016 15:27:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Restructuring & Insolvency]]></title>
             <description><![CDATA[<article><h1>Restructuring & Insolvency</h1><p>Practicing in one of the major restructuring and insolvency areas of our times, we have a recognized leading edge restructuring practice built around complex creditor requirements</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/arbitration/index.html</link>
             <guid isPermaLink="false">8e1a849b-acc3-4afe-9de5-09b45d2e77e0</guid>
             <pubDate>Mon, 04 Apr 2016 15:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Constantinos Klissouras]]></title>
-            <description><![CDATA[<article><h1>Constantinos Klissouras</h1><p>Constantinos Klissouras heads the firm’s disputes and restructuring team, specializing in complex civil and commercial litigation and arbitration, finance, and domestic and cross-border restructuring and insolvency.</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/constantinos-klissouras/index.html</link>
-            <guid isPermaLink="false">2bd0a12f-c0bd-467d-b695-9a345a502820</guid>
-            <pubDate>Mon, 04 Apr 2016 13:53:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
