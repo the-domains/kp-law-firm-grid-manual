@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ηigh EU co-funding, the privatization programme and the progressive reduction of sovereign risk perceptions, are likely to be the key drivers of a strong bounce-back of large infrastructure projects to pre-crisis levels.'
-datePublished: '2016-04-04T15:24:15.806Z'
-dateModified: '2016-04-04T15:23:40.418Z'
+datePublished: '2016-04-04T15:24:35.510Z'
+dateModified: '2016-04-04T15:24:19.488Z'
 title: 'Procurement & Construction'
+author: []
+sourcePath: _posts/2016-04-04-procurement-and-construction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-04-procurement-and-construction.md
-published: true
 url: procurement-and-construction/index.html
 _type: Article
 
