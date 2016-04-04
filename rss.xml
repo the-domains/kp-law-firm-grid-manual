@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:30:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Financial Services]]></title>
+            <description><![CDATA[<h1>Financial Services</h1>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/financial-services/index.html</link>
+            <guid isPermaLink="false">1730bc7f-1db0-479c-8a69-3a1ce81a989a</guid>
+            <pubDate>Mon, 04 Apr 2016 15:30:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Distribution & supply networks]]></title>
             <description><![CDATA[<article><h1>Distribution & supply networks</h1><p>Sophisticated input from diverse legal areas is required to deliver reliable solutions to complexities associated with efficient and competitive distribution, creating and protecting exclusivity, and controlling end-to-end safety and quality.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/competition-and-antitrust/index.html</link>
             <guid isPermaLink="false">7cf04cd2-c835-4e91-8f5c-16c95425b437</guid>
             <pubDate>Mon, 04 Apr 2016 15:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Capital Markets]]></title>
-            <description><![CDATA[<article><h1>Capital Markets</h1><p>Regional capital markets present a wide array of opportunities for financial, strategic and tactical transactions, and precise understanding of local niveaus is key to exploiting these opportunities in safe and predictable ways</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/capital-markets/index.html</link>
-            <guid isPermaLink="false">1ec16d6c-fbb7-4fb4-b11d-e1017717f090</guid>
-            <pubDate>Mon, 04 Apr 2016 15:13:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
