@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:31:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Healthcare & Life Sciences]]></title>
+            <description><![CDATA[<article><h1>Healthcare & Life Sciences</h1><p>Stakeholders in healthcare and life sciences are confronted with significant structural change and reform, and the impact of rapid technological progress on the market and the law.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/healthcare-and-life-sciences/index.html</link>
+            <guid isPermaLink="false">1a8e7a23-e284-4c62-8fcd-7299bee034b3</guid>
+            <pubDate>Mon, 04 Apr 2016 15:31:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Financial Services]]></title>
             <description><![CDATA[<h1>Financial Services</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/corporate-and-commercial/index.html</link>
             <guid isPermaLink="false">01e823fc-deaa-4971-8413-e444d130b87a</guid>
             <pubDate>Mon, 04 Apr 2016 15:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Competition & Antitrust]]></title>
-            <description><![CDATA[<article><h1>Competition & Antitrust</h1><p>As an ever increasing proportion of commercial practices and transactions acquire antitrust and competition law significance, proactive analysis of the implications is becomming the new integral component of many old areas of the law</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/competition-and-antitrust/index.html</link>
-            <guid isPermaLink="false">7cf04cd2-c835-4e91-8f5c-16c95425b437</guid>
-            <pubDate>Mon, 04 Apr 2016 15:16:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
