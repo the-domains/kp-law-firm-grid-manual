@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:33:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Media & Entertainment]]></title>
+            <description><![CDATA[<article><h1>Media & Entertainment</h1><p>The massive transformation of distribution models across platforms and borders and the complexities of related regulation pose unique challenges to a sector uniquely placed to exit the crisis ahead of most product and service industries.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/media-and-entertainment/index.html</link>
+            <guid isPermaLink="false">1bc7d384-1444-4001-815f-711a12f67a70</guid>
+            <pubDate>Mon, 04 Apr 2016 15:33:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Infrastructure]]></title>
             <description><![CDATA[<article><h1>Infrastructure</h1><p>Infrastructure projects call for highly coordinated inputs from diverse legal areas to evolve efficiently through their stages, over sound joint venture and financing foundations and under several layers of compliance obligations.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/intellectual-property/index.html</link>
             <guid isPermaLink="false">8d3dbaca-0bd8-44f5-bef5-ae3bf28ba965</guid>
             <pubDate>Mon, 04 Apr 2016 15:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finance]]></title>
-            <description><![CDATA[<article><h1>Finance</h1><p>While global economic conditions transform the face of investment banking, agile lenders must explore the methods for defending their existing and new investment in small and mid-market businesses, concessions and infrastructure projects.</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/finance/index.html</link>
-            <guid isPermaLink="false">25a8e941-7e44-4708-ac0a-019de3b05b42</guid>
-            <pubDate>Mon, 04 Apr 2016 15:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
