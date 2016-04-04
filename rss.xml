@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:24:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Procurement & Construction]]></title>
+            <description><![CDATA[<article><h1>Procurement & Construction</h1><p>Ηigh EU co-funding, the privatization programme and the progressive reduction of sovereign risk perceptions, are likely to be the key drivers of a strong bounce-back of large infrastructure projects to pre-crisis levels.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/procurement-and-construction/index.html</link>
+            <guid isPermaLink="false">c2b05993-9bf8-4814-b9ae-552d54d090fa</guid>
+            <pubDate>Mon, 04 Apr 2016 15:24:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Litigation]]></title>
             <description><![CDATA[<article><h1>Litigation</h1><p>Litigation is at the core of our work, and the cornerstone of our programmatic approach to all fields of our advisory and transactional practice</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/transactions-and-advice/index.html</link>
             <guid isPermaLink="false">6ce08022-dc74-4058-a7c1-5cbf980e1dbc</guid>
             <pubDate>Mon, 04 Apr 2016 13:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disputes]]></title>
-            <description><![CDATA[<article><h1>Disputes</h1><p>We take pride in the depth, breadth and track record of our disputes practice, encompassing domestic and cross-border litigation and arbitration, discovery, asset tracing and recovery, strategic planning and dispute risk management, in a wide array of sectors, industries, and one-time, non-recurring, dispute circumstances.</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/disputes/index.html</link>
-            <guid isPermaLink="false">6050664a-6711-46ab-941a-8e2b03b1738f</guid>
-            <pubDate>Mon, 04 Apr 2016 13:49:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
