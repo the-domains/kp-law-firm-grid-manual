@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:29:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Distribution & supply networks]]></title>
+            <description><![CDATA[<article><h1>Distribution & supply networks</h1><p>Sophisticated input from diverse legal areas is required to deliver reliable solutions to complexities associated with efficient and competitive distribution, creating and protecting exclusivity, and controlling end-to-end safety and quality.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/distribution-and-supply-networks/index.html</link>
+            <guid isPermaLink="false">fec3adfe-2286-4abf-9dc6-dde1590a45f8</guid>
+            <pubDate>Mon, 04 Apr 2016 15:29:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crisis Management]]></title>
             <description><![CDATA[<article><h1>Crisis Management</h1><p>Expertise is not enough for time-critical business contingencies: it's the ability to draw it all together at a moment's notice that counts in high operational and reputational risk situations</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/capital-markets/index.html</link>
             <guid isPermaLink="false">1ec16d6c-fbb7-4fb4-b11d-e1017717f090</guid>
             <pubDate>Mon, 04 Apr 2016 15:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arbitration]]></title>
-            <description><![CDATA[<article><h1>Arbitration</h1><p>In times of radical transformation of the nature of disputes, and the methods, techniques and environments for their resolution, arbitration is a rapidly evolving answer.</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/arbitration/index.html</link>
-            <guid isPermaLink="false">8e1a849b-acc3-4afe-9de5-09b45d2e77e0</guid>
-            <pubDate>Mon, 04 Apr 2016 15:12:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
