@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KP Law Firm (Grid-manual)]]></title>
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 13:50:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 13:50:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Transactions & Advice]]></title>
+            <description><![CDATA[<article><h1>Transactions & Advice</h1><p>We approach transactional work and specialist advice with the proven hard methods we use for disputes.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/transactions-and-advice/index.html</link>
+            <guid isPermaLink="false">6ce08022-dc74-4058-a7c1-5cbf980e1dbc</guid>
+            <pubDate>Mon, 04 Apr 2016 13:50:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disputes]]></title>
             <description><![CDATA[<article><h1>Disputes</h1><p>We take pride in the depth, breadth and track record of our disputes practice, encompassing domestic and cross-border litigation and arbitration, discovery, asset tracing and recovery, strategic planning and dispute risk management, in a wide array of sectors, industries, and one-time, non-recurring, dispute circumstances.</p></article>]]></description>
-            <link>undefineddisputes/index.html</link>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/disputes/index.html</link>
             <guid isPermaLink="false">6050664a-6711-46ab-941a-8e2b03b1738f</guid>
             <pubDate>Mon, 04 Apr 2016 13:49:53 GMT</pubDate>
         </item>
