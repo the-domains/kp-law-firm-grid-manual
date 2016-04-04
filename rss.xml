@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:35:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sovereign Finance]]></title>
+            <description><![CDATA[<article><h1>Sovereign Finance</h1><p>It has never been more topical for sovereign lenders and borrowers to navigate effectively the challenges to legal certainty brought about by the global debt crisis</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/sovereign-finance/index.html</link>
+            <guid isPermaLink="false">74622eda-32af-4f55-a47b-ae998887db4d</guid>
+            <pubDate>Mon, 04 Apr 2016 15:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Privatization]]></title>
             <description><![CDATA[<article><h1>Privatization</h1><p>Greece has a huge good bet on the Privatization Programme, which is more critical today, than it was during previous privatization efforts in the 1990'and 2000's</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/procurement-and-construction/index.html</link>
             <guid isPermaLink="false">c2b05993-9bf8-4814-b9ae-552d54d090fa</guid>
             <pubDate>Mon, 04 Apr 2016 15:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Litigation]]></title>
-            <description><![CDATA[<article><h1>Litigation</h1><p>Litigation is at the core of our work, and the cornerstone of our programmatic approach to all fields of our advisory and transactional practice</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/litigation/index.html</link>
-            <guid isPermaLink="false">f69c723b-6e0f-4810-a11a-22e4cf6827dd</guid>
-            <pubDate>Mon, 04 Apr 2016 15:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
