@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:32:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Infrastructure]]></title>
+            <description><![CDATA[<article><h1>Infrastructure</h1><p>Infrastructure projects call for highly coordinated inputs from diverse legal areas to evolve efficiently through their stages, over sound joint venture and financing foundations and under several layers of compliance obligations.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/infrastructure/index.html</link>
+            <guid isPermaLink="false">08c2bf49-f4a5-4c6d-830d-ac59bbb93efd</guid>
+            <pubDate>Mon, 04 Apr 2016 15:32:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Healthcare & Life Sciences]]></title>
             <description><![CDATA[<article><h1>Healthcare & Life Sciences</h1><p>Stakeholders in healthcare and life sciences are confronted with significant structural change and reform, and the impact of rapid technological progress on the market and the law.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/finance/index.html</link>
             <guid isPermaLink="false">25a8e941-7e44-4708-ac0a-019de3b05b42</guid>
             <pubDate>Mon, 04 Apr 2016 15:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corporate & Commercial]]></title>
-            <description><![CDATA[<article><h1>Corporate & Commercial</h1><p>Sophisticated parties place a premium on attentive and responsive legal services, which define clear and secure pathways between initial conditions and commercial objectives</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/corporate-and-commercial/index.html</link>
-            <guid isPermaLink="false">01e823fc-deaa-4971-8413-e444d130b87a</guid>
-            <pubDate>Mon, 04 Apr 2016 15:17:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
