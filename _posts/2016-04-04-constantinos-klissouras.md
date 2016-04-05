@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Constantinos Klissouras heads the firm’s disputes and restructuring team, specializing in complex civil and commercial litigation and arbitration, finance, and domestic and cross-border restructuring and insolvency.'
-datePublished: '2016-04-04T13:53:30.921Z'
-dateModified: '2016-04-04T13:53:01.078Z'
+datePublished: '2016-04-05T07:20:06.220Z'
+dateModified: '2016-04-04T13:53:34.375Z'
 title: Constantinos Klissouras
 author: []
+sourcePath: _posts/2016-04-04-constantinos-klissouras.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-constantinos-klissouras.md
-published: true
 url: constantinos-klissouras/index.html
 _type: Article
 
