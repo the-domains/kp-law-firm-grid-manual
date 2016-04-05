@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dionysis Gavounelis is a dispute resolution partner, and heads the firm’s procurement & construction team, specialising in complex litigation, and the full spectrum of procurement, through tendering, contracting, execution and the resolution of disputes.'
-datePublished: '2016-04-05T07:22:30.154Z'
-dateModified: '2016-04-05T07:21:44.926Z'
+datePublished: '2016-04-05T07:24:13.661Z'
+dateModified: '2016-04-05T07:22:37.855Z'
 title: Dionysios Gavounelis
 author: []
 sourcePath: _posts/2016-04-05-dionysios-gavounelis.md
