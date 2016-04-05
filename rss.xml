@@ -4,8 +4,15 @@
         <description><![CDATA[KP Law Firm (Grid-manual)]]></description>
         <link>https://thegrid.ai/kp-law-firm-grid-manual/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 07:22:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kp-law-firm-grid-manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rita Anthouli]]></title>
+            <description><![CDATA[<article><h1>Rita Anthouli</h1><p>Rita Anthouli is a corporate & commercial senior associate, specializing in corporate and shareholder disputes, M & A, and real estate.</p></article>]]></description>
+            <link>https://thegrid.ai/kp-law-firm-grid-manual/rita-anthouli/index.html</link>
+            <guid isPermaLink="false">a975a10d-9151-440d-93e9-3e3a8adcc9bf</guid>
+            <pubDate>Tue, 05 Apr 2016 07:21:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Constantinos Klissouras]]></title>
             <description><![CDATA[<article><h1>Constantinos Klissouras</h1><p>Constantinos Klissouras heads the firm’s disputes and restructuring team, specializing in complex civil and commercial litigation and arbitration, finance, and domestic and cross-border restructuring and insolvency.</p></article>]]></description>
@@ -32,7 +39,7 @@
             <description><![CDATA[<article><h1>Dionysios Gavounelis</h1><p>Dionysis Gavounelis is a dispute resolution partner, and heads the firm’s procurement & construction team, specialising in complex litigation, and the full spectrum of procurement, through tendering, contracting, execution and the resolution of disputes.</p></article>]]></description>
             <link>https://thegrid.ai/kp-law-firm-grid-manual/dionysios-gavounelis/index.html</link>
             <guid isPermaLink="false">5470320f-7709-4906-ac4b-d7911ae4acb4</guid>
-            <pubDate>Tue, 05 Apr 2016 07:21:37 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 07:22:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sovereign Finance]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kp-law-firm-grid-manual/healthcare-and-life-sciences/index.html</link>
             <guid isPermaLink="false">1a8e7a23-e284-4c62-8fcd-7299bee034b3</guid>
             <pubDate>Mon, 04 Apr 2016 15:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Financial Services]]></title>
-            <description><![CDATA[<article><h1>Financial Services</h1><p>The partners at KP have established track records acting for most types of credit and financial institutions; we have acted for many of the larger global and international investment banks, securities houses, investment, hedge and private equity funds, trustees, custodians and underwriters, insurers and reinsurers, and their directors and officers.</p></article>]]></description>
-            <link>https://thegrid.ai/kp-law-firm-grid-manual/financial-services/index.html</link>
-            <guid isPermaLink="false">1730bc7f-1db0-479c-8a69-3a1ce81a989a</guid>
-            <pubDate>Mon, 04 Apr 2016 15:30:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
