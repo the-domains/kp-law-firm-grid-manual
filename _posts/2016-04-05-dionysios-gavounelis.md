@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dionysis Gavounelis is a dispute resolution partner, and heads the firm’s procurement & construction team, specialising in complex litigation, and the full spectrum of procurement, through tendering, contracting, execution and the resolution of disputes.'
-datePublished: '2016-04-05T07:24:13.661Z'
-dateModified: '2016-04-05T07:22:37.855Z'
+datePublished: '2016-04-05T07:27:15.784Z'
+dateModified: '2016-04-05T07:26:34.490Z'
 title: Dionysios Gavounelis
 author: []
 sourcePath: _posts/2016-04-05-dionysios-gavounelis.md
@@ -32,4 +32,5 @@ He received his education at the University of Athens, School of Law (1992). He 
 
 **Languages**: Greek, English
 
-**Education**:
+**Education**: University of Athens School of Law (1992)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30d0d699-b853-4090-bfed-1e2c23f44b68.jpg)
